@@ -1,0 +1,808 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>爱尚自由行</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link href="/templets/default/style/dedecms.css" rel="stylesheet" media="screen" type="text/css" />
+<link rel="stylesheet" href="/templets/default/style/lrtk.css">
+<link rel="stylesheet" href="/templets/default/style/jquery-rebox.css">
+<meta http-equiv="mobile-agent" content="format=xhtml;url=/m/index/">
+<script language=javascript>
+switch(location.host){    
+case'baidu.jingyan.zjjyoo.cn':   
+location.href="http://www.zjjyoo.cn/page/jingyan"  
+break;   
+}
+
+
+</script>
+<script>
+document.write('<script type="text/javascript"  data-lxb-uid="7468250" data-lxb-gid="93986" src="http://lxbjs.baidu.com/api/asset/api.js?t=' + new Date().getTime() + '" charset="utf-8"></scr' + 'ipt>' );
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?ea971806e9dc544d476f8bcd7a8b3a13";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+  if(screen.width<='1024')
+  window.location.href = "http://www.zjjyoo.cn/m/index/";
+else{}
+</script>
+
+    <script type="text/javascript" src="/templets/default/js/jquery.js"></script>
+    <script type="text/javascript" src="/templets/default/js/jquery.lightbox-0.5.js"></script>
+    <link rel="stylesheet" type="text/css" href="/templets/default/style/jquery.lightbox-0.5.css" media="screen" />
+
+
+    <script type="text/javascript">
+    $(function() {
+        $('#gallery1 a').lightBox();
+		$('#gallery2 a').lightBox();
+		$('#gallery3 a').lightBox();
+		$('#gallery4 a').lightBox();
+		$('#gallery5 a').lightBox();
+		$('#gallery6 a').lightBox();
+
+    });
+    </script>
+    
+    
+    
+
+</head>
+<body class="index zjjyoo">
+
+
+<!-- zjjyoo.cn Baidu tongji analytics -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8fb8f78d9d1da2169f024b0c6ce3805a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--GA分析-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100352012-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script>
+$(document).ready(function(){
+	$(".qqbtn").hover(function(){
+		$(".qqlist").fadeIn()
+	},
+	function(){
+		$(".qqlist").fadeOut()}
+	)
+	$(".phonebtn").hover(function(){
+		$(".phonenumber").fadeIn()
+	},
+	function(){
+		$(".phonenumber").fadeOut()}
+	)
+	$(".wechatbtn").hover(function(){
+		$(".wechatimg").fadeIn()
+	},
+	function(){
+		$(".wechatimg").fadeOut()}
+	)
+	})
+</script>
+
+
+<div class="yoobaidu"><script type="text/javascript"> var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fea971806e9dc544d476f8bcd7a8b3a13' type='text/javascript'%3E%3C/script%3E")) </script>
+</div>
+
+<ul class="floatnav">
+<li>
+<a target="_blank" href="/" class="homebtn">
+<img src="/templets/default/images/zjjyoo/head/floaticon1.jpg" />
+</a>
+</li>
+<li>
+<a id="zxzh" target="_blank" href="http://p.qiao.baidu.com//im/index?siteid=8307239&ucid=7468250" class="csbtn">
+<img src="/templets/default/images/zjjyoo/head/floaticon2.jpg" />
+</a>
+</li>
+<li  class="qqbtn">
+<a  id="qqzh" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=544118340&site=qq&menu=yes">
+<img src="/templets/default/images/zjjyoo/head/floaticon3.jpg" />
+</a>
+<div class="qqlist">
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=544118340&site=qq&menu=yes">在线QQ客服</a>
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2973712884&site=qq&menu=yes">在线QQ客服</a>
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=448911567&site=qq&menu=yes">在线QQ客服</a>
+</div>
+</a>
+
+</li>
+<li class="floatphone">
+<a href="" class="phonebtn">
+<img src="/templets/default/images/zjjyoo/head/floaticon4.jpg" />
+<span class="phonenumber">
+400-1670-855
+</span>
+</a>
+</li>
+<li>
+<a class="wechatbtn">
+<img src="/templets/default/images/zjjyoo/head/floaticon5.jpg" />
+<img class="wechatimg" src="/templets/default/images/zjjyoo/head/wechat.jpg" />
+</a>
+</li>
+</ul>
+<div class="header">
+<div class="logo">爱尚自由行</div>
+<ul class="nav">
+<li class="item1">
+<a target="_blank" href="/">爱尚首页</a>
+</li>
+<li class="item2">
+<a target="_blank" href="/page/package/">爱尚套餐</a>
+</li>
+<li class="item3">
+<a target="_blank" href="/page/custom/">爱尚定制</a>
+</li>
+<li class="item4">
+<a target="_blank" href="/page/contact/">关于爱尚</a>
+</li>
+
+<!--<li class="item5">
+<a target="_blank" href="/page/self">自助游攻略</a>
+</li>-->
+
+</ul>
+</div>
+</div>
+<!-- /header --><!-- /flink -->
+<div class="bkimg firstintro">
+<div class="w1200 intropic">
+<a target="_blank" href="/page/package/" class="buttom package">查看套餐</a>
+<a target="_blank" href="http://p.qiao.baidu.com//im/index?siteid=8307239&ucid=7468250" class="buttom call">呼叫我们</a>
+</div>
+</div>
+
+
+<div class="self">
+<div class="w1200 bimg">
+<div class="textbox">
+<h1 class="title">什么是爱尚自由行自助游？</h1>
+<span class="intro">
+自助游是指以省钱的方法享受自由自在的旅游</br>
+自由、主动、深刻、充满艰辛和诗意</br>
+利用现代文明带来的边界，却又不受商业的蒙蔽和束缚的旅行</br>
+</span>
+
+<h1 class="title">爱尚自由行提供什么服务？</h1>
+<span class="intro">
+一个自助游组合套餐包含：门票、住宿、交通、保险</br>
+行程中还有以为“贴心私人向导”跟随，按照您的要求免费设计专属线路</br>
+</span>
+</div>
+
+
+
+
+
+<a target="_blank" class="button" href="/page/package/">挑选套餐</a>
+</div>
+</div>
+
+<div class="compare">
+<div class="w1200 bimg">
+<h1 class="title">"跟团游、自己玩"比一比"爱尚自由行自助游"</h1>
+
+<div style="text-indent:-99999px;">
+“跟团游、自己玩”比一比“爱尚自由行自助游”
+找旅行社
+低价吸引、参团各种催起床、催玩，催集合
+上车睡觉、自行坐车回家、疲惫不堪
+自己玩
+晚上找攻略一头雾水，找酒店担心被宰，无头苍蝇无方向，门票排队一排半天，自行回家疲惫不堪
+</div>
+<div class="comparebg1">
+</div>
+<div class="comparebg3">
+</div>
+<div class="comparebg2">
+</div>
+
+
+</div>
+</div>
+
+<div class="advantage">
+<div class="bimg w1200">
+<span class="textbox">
+<h1>爱尚自由行－－负责您的“旅行生活服务”</h1>
+<span class="t2">并把您的旅行费用降到低，您只管玩！</span>
+<img src="/templets/default/images/zjjyoo/index/advantage_points.jpg"  />
+<span class="t3">有了爱尚自由行，来张家界，就是这么省心！</span>
+</span>
+
+<span class="askbox">
+<a target="_blank" class="buttom" href="/page/contact">
+<img style="margin:15px 0 0 0;" src="/templets/default/images/zjjyoo/index/advantage_buttom.jpg" />
+</a>
+在线咨询
+</span>
+</div>
+</div>
+<div class="advantage2">
+<div class="bimg w1200">
+<h1 class="title">
+爱尚自由行套餐如何帮您省钱
+爱尚自由行自助游4大优势
+相比跟团：更自由、不加点、不赶鸭子，想比自己玩：更省钱、无需找攻略、查资料
+</h1>
+<h1 class="title2">
+
+</h1>
+<span class="text1">
+<b><img src="/templets/default/images/zjjyoo/index/advanceicon1.jpg"  />时间自由</b><br />
+怎么玩，去哪玩，玩多久<br />
+时间路线由自己掌控
+</span>
+<span class="text2">
+<b>省钱实惠<img src="/templets/default/images/zjjyoo/index/advanceicon2.jpg"  /></b><br />
+爱尚自由行创办8年整合旅游资源，<br />
+拿合同低价比您自己单独购买<br />
+游玩至少省钱一般以上
+</span>
+<span class="text3">
+<b><img src="/templets/default/images/zjjyoo/index/advanceicon3.jpg"  />独立成团</b><br />
+2人也可组成团，独立定制<br />
+路线享受VIP待遇，想去哪，<br />
+就去哪
+</span>
+<span class="text4">
+<b>安全省心<img src="/templets/default/images/zjjyoo/index/advanceicon4.jpg"  /></b><br />
+公司签约合同，购买平安旅游安<br />
+全保险，一人一份一辆车，一名<br />
+助理，全程跟随，随叫随到
+</span>
+</div>
+</div>
+
+<div class="w1200 package">
+<h1 class="title">爱尚套餐</h1>
+<ul class="packagelist">
+
+<li class="item">
+<a target="_blank" class="title" href="">两日商务游</a>
+<a target="_blank" href="/page/package/2016/0206/1.html" class="buttom">
+<span class="pic">
+<img src="/uploads/allimg/package/index/1.jpg" /></span>
+<span class="intro">
+<span class="detail">
+2天1晚<br />
+杨家界+袁家界+天子山<br />
+</span>
+<span class="price">
+￥520/人
+</span>
+</a>
+</span>
+</li>
+<li class="item">
+<a target="_blank" class="title" href="">三日尽情游</a>
+<a target="_blank" href="/page/package/2016/0224/7.html" class="buttom">
+<span class="pic">
+<img src="/uploads/allimg/package/index/2.jpg" /></span>
+<span class="intro">
+<span class="detail">
+3天2晚<br />
+森林公园+天门山<br />
+</span>
+<span class="price">
+￥880元/人起
+</span>
+</a>
+</span>
+</li>
+<li class="item">
+<a target="_blank" class="title" href="">四日休闲游</a>
+<a target="_blank" href="/page/package/2016/0224/8.html" class="buttom">
+<span class="pic">
+<img src="/uploads/allimg/package/index/3.jpg" /></span>
+<span class="intro">
+<span class="detail">
+4天3晚<br />
+张家界+天门山+凤凰四<br />
+</span>
+<span class="price">
+￥1280/人起
+</span>
+</a>
+</span>
+</li>
+
+
+</ul>
+
+<ul class="recommend">
+<li><h1 class="title">您还可能对这些感兴趣</h1></li>
+
+<li>
+<a target="_blank" href="/page/package/2016/0224/9.html" class="">
+<img src="/uploads/allimg/package/index/160224/1-16022421220H01.jpg" width="310px" />
+<span class="intro">
+<span class="price">
+￥1580/起
+</span>
+<span class="details">
+森林公园+天门山+漂流+凤凰五日<br />
+五日度假游
+</span>
+
+</span>
+</a>
+</li>
+<li>
+<a target="_blank" href="/page/package/2016/0224/10.html" class="">
+<img src="/uploads/allimg/package/index/160224/1-16022421231KD.jpg" width="310px" />
+<span class="intro">
+<span class="price">
+￥880/人起
+</span>
+<span class="details">
+森林公园+凤凰<br />
+三日浪漫游
+</span>
+
+</span>
+</a>
+</li>
+<li>
+<a target="_blank" href="/page/package/2016/0224/11.html" class="">
+<img src="/uploads/allimg/package/index/160224/1-160224212330237.jpg" width="310px" />
+<span class="intro">
+<span class="price">
+￥/1280人起
+</span>
+<span class="details">
+森林公园+天门山+漂流<br />
+四日激情游
+</span>
+
+</span>
+</a>
+</li>
+
+
+</ul>
+
+</div>
+
+<div class="w1200 impression">
+<h1 class="title">爱尚印象</h1>
+<ul class="impreslist">
+<li class="item">
+<img width="315px" height="208px" src="/templets/default/images/zjjyoo/index/impr1.jpg" />
+
+<span class="intro">
+<h4>旅游就要这样自助游</h4>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是一次冲动的旅行，这是一次说走就走的旅行，这也是一次心灵的旅行<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;几个老友聊着聊着就当场订下了机票，就是怕大家反悔又出去不成，很多事情不冲动就就遥遥无期！<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开始准备自己玩，到了后却打消了这个念头，张家界旅游状况太复杂，景点路线多不胜数，还是找个靠谱的旅游公司吧！<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爱尚自由行，专业就是不一样，所有的事情都提前安排得妥妥的，特别有安全感省了很多时间可以慢慢游览风景，关键还真省了钱，这个是我们没想到的！支持！</span>
+</span>
+</li>
+
+<li class="item">
+<img width="315px"  src="/templets/default/images/zjjyoo/index/impr2.jpg" />
+
+<span class="intro" style=" padding-bottom:60px;">
+<h4>幸好碰到了爱尚自由行</h4>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;决定去张家界，是因为一个承诺。 提前了半个月订火车票，竟然去程只剩下坐票，十三个小时的颠簸，各种泪流满面，好吧，既然决定去张家界，无论前方多艰辛，都要风雨兼程。 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;偶然的机会碰到了爱尚自由行，让我改变了三观，以前旅游只相信自己，各种担心，现在我明白了：找个专业靠谱的旅游公司比你自己瞎玩强一百倍！不然偌大一个张&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;家界很多状况都让我束手无策！<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谢谢庹哥、田美女！谢谢爱尚自由行！<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;张家界之行幸好有你们！
+
+</span>
+</span>
+</li>
+
+<li class="item">
+<img width="315px"  src="/templets/default/images/zjjyoo/index/impr3.jpg" />
+
+<span class="intro" style=" padding-bottom:60px;">
+<h4>爱尚自由行带给我们美好的旅行</h4>
+<span style="padding-bottom:52px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从张家界回来已经好几天了，心情始终无法平静，思绪仍然还停留在美丽的张家界，幽静的金鞭溪，雄伟的袁家界，古老的凤凰古城。还有那里的一切一切……<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这里我一定要把"爱尚自由行"推荐给他家，一是帮助那些准备去张家界的朋友，二是真的谢谢他给了我这段美好的旅行！<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们是江西游客，我们支持爱尚自由行！
+
+</span>
+</span>
+</li>
+
+</ul>
+</div>
+
+
+<div class="w1200 story">
+<h1 class="title"></h1>
+<div class="imgbox">
+<div style="width:580px;float:left;overflow:hidden;">
+<!-- 线路 -->
+<div id="gallery1">
+<ul class="yoolightbox1">
+        <li>
+            <a target="_blank" class="li1g1" href="/uploads/allimg/story/story1.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story1.jpg"  />
+              <span class="intro">
+<h1>线路</h1>
+<p>怎么玩怎么坐车怎么省钱</p>
+<p>安排得妥妥的</p>
+</span>
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story1/20160210.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story1/20160210.jpg"  />
+           
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story1/2ea6c716ff4bf13a011261f2fbc24000_w800_h0_c0_t0.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story1/2ea6c716ff4bf13a011261f2fbc24000_w800_h0_c0_t0.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story1/754aa207aa94641a6531dd4eb897cce9_w800_h0_c0_t0.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story1/754aa207aa94641a6531dd4eb897cce9_w800_h0_c0_t0.jpg"  />
+            </a>
+        </li>       
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story1/20160210.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story1/20160210.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story1/2ea6c716ff4bf13a011261f2fbc24000_w800_h0_c0_t0.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story1/2ea6c716ff4bf13a011261f2fbc24000_w800_h0_c0_t0.jpg"  />
+            </a>
+        </li>
+    </ul>
+    </div>
+
+<!-- 线路结束 -->
+
+
+<!-- 酒店 -->
+<div id="gallery2">
+<ul class="yoolightbox2">
+        <li>
+            <a target="_blank" class="li1g2" href="/uploads/allimg/story/story3.jpg" title="酒店相册">
+                <img src="/uploads/allimg/story/story3.jpg"  />
+              <span class="intro">
+<h1>酒店</h1>
+<p>开上爱车，带上家人，</p>
+<p>来之前给我一个电话。</p>
+</span>
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322111305J7.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322111305J7.jpg"  />
+           
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-16032211131W64.jpg" title="线路相册">
+                <img src="/uploads/160322/1-16032211131W64.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322111331602.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322111331602.jpg"  />
+            </a>
+        </li>       
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322111440136.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322111440136.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-16032211145JD.jpg" title="线路相册">
+                <img src="/uploads/160322/1-16032211145JD.jpg"  />
+            </a>
+        </li>
+    </ul>
+    </div>
+
+<!--酒店结束--></div>
+
+<!-- 自驾游 -->
+<div id="gallery3">
+<ul class="yoolightbox2">
+        <li>
+            <a target="_blank" class="li1g3" href="/uploads/allimg/story/story2.jpg" title="酒店相册">
+                          <span class="intro">
+<h1>自驾游</h1>
+<p>开上爱车，带上家人</p>
+<p>来之前给我一个电话</p>
+</span>
+                <img src="/uploads/allimg/story/story2.jpg"  />
+
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story3/eb1ebd08eabbc6236c68d7dbc108301e.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story3/eb1ebd08eabbc6236c68d7dbc108301e.jpg"  />
+           
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story3/20121213085310786.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story3/20121213085310786.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story3/eb1ebd08eabbc6236c68d7dbc108301e.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story3/eb1ebd08eabbc6236c68d7dbc108301e.jpg"  />
+            </a>
+        </li>       
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story3/20121213085310786.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story3/20121213085310786.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story3/eb1ebd08eabbc6236c68d7dbc108301e.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story3/eb1ebd08eabbc6236c68d7dbc108301e.jpg"  />
+            </a>
+        </li>
+    </ul>
+    </div>
+
+<!--自驾游结束-->
+
+<!-- 美食 -->
+<div id="gallery4">
+<ul class="yoolightbox2">
+        <li>
+            <a target="_blank" class="li1g3" href="/uploads/allimg/story/story4.jpg" title="酒店相册">
+                          <span class="intro">
+<h1>美食</h1>
+<p>舌尖上的张家界</p>
+<p>不一样的美食天堂</p>
+</span>
+                <img src="/uploads/allimg/story/story4.jpg"  />
+
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story4/2153-14041GG959611.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story4/2153-14041GG959611.jpg"  />
+           
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story4/001cwux7gy6JQuNzoi579.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story4/001cwux7gy6JQuNzoi579.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story4/2153-14041GG959611.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story4/2153-14041GG959611.jpg"  />
+            </a>
+        </li>       
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story4/001cwux7gy6JQuNzoi579.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story4/001cwux7gy6JQuNzoi579.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/allimg/story/story4/2153-14041GG959611.jpg" title="线路相册">
+                <img src="/uploads/allimg/story/story4/2153-14041GG959611.jpg"  />
+            </a>
+        </li>
+    </ul>
+    </div>
+
+<!--美食结束-->
+
+<!-- 美景游 -->
+<div id="gallery5">
+<ul class="yoolightbox2">
+        <li>
+            <a target="_blank" class="li1g3" href="/uploads/allimg/story/story5.jpg" title="酒店相册">
+                          <span class="intro">
+<p>领略不一样的风景</p>
+<p>跟随我们的足迹</p>
+<h1>美景</h1>
+
+</span>
+                <img src="/uploads/allimg/story/story5.jpg"  />
+
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322110039339.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322110039339.jpg"  />
+           
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322110102404.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322110102404.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-16032211011L22.jpg" title="线路相册">
+                <img src="/uploads/160322/1-16032211011L22.jpg"  />
+            </a>
+        </li>       
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322110132604.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322110132604.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-1603221101492O.jpg" title="线路相册">
+                <img src="/uploads/160322/1-1603221101492O.jpg"  />
+            </a>
+        </li>
+    </ul>
+    </div>
+
+<!--美景结束-->
+
+<!-- 客服 -->
+<div id="gallery6">
+<ul class="yoolightbox2">
+        <li>
+            <a target="_blank" class="li1g3" href="/uploads/allimg/story/story6.jpg" title="酒店相册">
+                          <span class="intro">
+<h1>客服</h1>
+<p>您的旅程</p>
+<p>我全程在线</p>
+</span>
+                <img src="/uploads/allimg/story/story6.jpg"  />
+
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322105942918.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322105942918.jpg"  />
+           
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322105JJK.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322105JJK.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322105P45V.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322105P45V.jpg"  />
+            </a>
+        </li>       
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322105R2242.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322105R2242.jpg"  />
+            </a>
+        </li>
+        <li class="li2">
+            <a target="_blank" href="/uploads/160322/1-160322105T2a5.jpg" title="线路相册">
+                <img src="/uploads/160322/1-160322105T2a5.jpg"  />
+            </a>
+        </li>
+    </ul>
+    </div>
+
+<!--客服结束-->
+
+</div>
+</div>
+
+<!--<div class="w1200 contact">
+<h1 class="title">爱尚客服</h1>
+<div class="contactshow">客服照片</div>
+</div>-->
+ 
+<!-- //底部模板 -->
+<div class="w1200 footer">
+<div class="service">
+<h1 class="title"></h1>
+<ul class="procesion">
+<li class="item">
+<img src="/templets/default/images/zjjyoo/index/procesion1.jpg" />
+</li>
+<li class="item">
+<img src="/templets/default/images/zjjyoo/index/procesion2.jpg" />
+</li>
+<li class="item">
+<img src="/templets/default/images/zjjyoo/index/procesion3.jpg" />
+</li>
+<li class="item">
+<img src="/templets/default/images/zjjyoo/index/procesion4.jpg" />
+</li>
+<li class="item">
+为您量身打造设计形成
+</li>
+<li class="item">
+24小时免费接站
+</li>
+<li class="item">
+爱尚经理签约旅游合同
+</li>
+<li class="item">
+快乐出行
+</li>
+</ul>
+
+</div>
+</div>
+
+<div class="phonecall">
+<p style="font-size:30px;font-weight:600;text-align:center;margin:80px 0 0 0;">游张家界，就上爱尚自由行，来次说走就走的旅行</p>
+<p style="font-size:36px;font-weight:600;text-align:center;margin:38px 0 0 0;">爱尚自由行自助游服务热线：400-1670-855</p>
+<a target="_blank" href="/page/contact" class="button">马上呼叫</a>
+</div>
+
+<ul class="footicon">
+<li><img src="/templets/default/images/zjjyoo/index/fonticon1.jpg" />
+</li>
+<li><img src="/templets/default/images/zjjyoo/index/fonticon2.jpg" />
+</li>
+<li><img src="/templets/default/images/zjjyoo/index/fonticon3.jpg" />
+</li>
+<li><img src="/templets/default/images/zjjyoo/index/fonticon4.jpg" />
+</li>
+</ul>
+
+<div class="contactdetail">
+<img src="/templets/default/images/zjjyoo/index/footlogo.jpg" />
+<img src="/templets/default/images/zjjyoo/index/footcode.jpg" />
+<span class="info">
+CopyRight ©  张家界爱尚自由行旅游服务有限公司 版权所有 版权所有<br>
+备案号：<a style="display: inline;" href="http://www.miitbeian.gov.cn/">湘ICP备18009062号</a> <br>
+24小时服务电话：400-1670-855<br>
+地址：湖南省张家界市永定区官黎坪办事处华天城一期3幢501<br />
+
+</span>
+</div>
+
+<!--<ul class="footnav">
+<li><a target="_blank" href="/">爱尚首页</a></li>
+ 
+
+ <li><a target="_blank" href='/page/package/'>爱游套餐</a> </li> 
+
+ 
+
+ <li><a target="_blank" href='/page/custom/'>爱游定制</a> </li> 
+
+ 
+
+ <li><a target="_blank" href='/page/contact/'>关于爱游</a> </li> 
+
+ 
+
+ <li><a target="_blank" href='/m/package/'>手机端爱尚套餐</a> </li> 
+
+ 
+
+</ul>-->
+<div class="footline"></div>
+<!-- /footer -->
+</body>
+</html>
